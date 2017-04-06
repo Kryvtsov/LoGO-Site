@@ -1,11 +1,11 @@
-ehtml, body {
+html, body {
     margin: 0;
     padding: 0;
 }
 body {
     font-family: 'Raleway', Arial, sans-serif;
     text-align: center;
-    background-color: #eee;
+    background-color: #fff;
     max-width: 1920px;
     min-width: 480px;
     /*overflow-x: hidden;*/
